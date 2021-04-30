@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/test-ghsite/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/test-ghsite/static/js/main.71320259.chunk.js",
-    "main.js.map": "/test-ghsite/static/js/main.71320259.chunk.js.map",
-    "runtime-main.js": "/test-ghsite/static/js/runtime-main.ffaf4d1a.js",
-    "runtime-main.js.map": "/test-ghsite/static/js/runtime-main.ffaf4d1a.js.map",
-    "static/js/2.993131ef.chunk.js": "/test-ghsite/static/js/2.993131ef.chunk.js",
-    "static/js/2.993131ef.chunk.js.map": "/test-ghsite/static/js/2.993131ef.chunk.js.map",
-    "static/js/3.df81210f.chunk.js": "/test-ghsite/static/js/3.df81210f.chunk.js",
-    "static/js/3.df81210f.chunk.js.map": "/test-ghsite/static/js/3.df81210f.chunk.js.map",
-    "index.html": "/test-ghsite/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/test-ghsite/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.993131ef.chunk.js.LICENSE.txt": "/test-ghsite/static/js/2.993131ef.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/test-ghsite/static/media/logo.6ce24c58.svg"
+    "main.css": "/ghsite-test/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ghsite-test/static/js/main.71320259.chunk.js",
+    "main.js.map": "/ghsite-test/static/js/main.71320259.chunk.js.map",
+    "runtime-main.js": "/ghsite-test/static/js/runtime-main.3c2594a1.js",
+    "runtime-main.js.map": "/ghsite-test/static/js/runtime-main.3c2594a1.js.map",
+    "static/js/2.993131ef.chunk.js": "/ghsite-test/static/js/2.993131ef.chunk.js",
+    "static/js/2.993131ef.chunk.js.map": "/ghsite-test/static/js/2.993131ef.chunk.js.map",
+    "static/js/3.df81210f.chunk.js": "/ghsite-test/static/js/3.df81210f.chunk.js",
+    "static/js/3.df81210f.chunk.js.map": "/ghsite-test/static/js/3.df81210f.chunk.js.map",
+    "index.html": "/ghsite-test/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ghsite-test/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.993131ef.chunk.js.LICENSE.txt": "/ghsite-test/static/js/2.993131ef.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ghsite-test/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ffaf4d1a.js",
+    "static/js/runtime-main.3c2594a1.js",
     "static/js/2.993131ef.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.71320259.chunk.js"
